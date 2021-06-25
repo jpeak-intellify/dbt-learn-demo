@@ -3,7 +3,7 @@ sources:
   - name: stripe
     database: raw
     tables:
-      - name: payments
+      - name: payment
         columns:
           - name: id
             tests:
